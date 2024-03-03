@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Link",
+    "race": "Hylian",
+    "gender": "Male"
+  },
+  {
+    "name": "Zelda",
+    "race": "Hylian",
+    "gender": "Female"
+  },
+  {
+    "name": "Ganondorf",
+    "race": "Gerudo",
+    "gender": "Male"
+  },
+  {
+    "name": "Rauru",
+    "race": "Zonai",
+    "gender": "Male"
+  }
+]
